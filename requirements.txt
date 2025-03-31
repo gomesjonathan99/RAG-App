@@ -1,0 +1,11 @@
+langchain
+langchain-community
+pypdf
+ipykernel
+langchain_google_genai
+langchain-chroma
+chromadb
+chroma-hnswlib
+markdown
+streamlit
+pdfplumber
